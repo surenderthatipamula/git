@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Maven Artifact Package</comment>
+<entry key="createdBy">Surender</entry>
+<entry key="name">revision-content</entry>
+<entry key="created">2016-09-03T13:05:26.175+0530</entry>
+<entry key="groupId">com.revisited.maven</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">Maven Package Group</entry>
+<entry key="description">Maven Multimodule project for Maven Artifact.</entry>
+<entry key="artifactId">revision-content</entry>
+<entry key="path">/etc/packages/Maven Package Group/revision-content.zip</entry>
+</properties>

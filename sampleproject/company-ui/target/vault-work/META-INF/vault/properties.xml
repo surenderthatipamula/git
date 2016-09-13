@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Company-UI</comment>
+<entry key="createdBy">bewheele</entry>
+<entry key="name">company-ui</entry>
+<entry key="created">2015-01-23T11:55:14.290-0600</entry>
+<entry key="groupId">com.adobe.training</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.adobe.training</entry>
+<entry key="description">Company-UI</entry>
+<entry key="artifactId">company-ui</entry>
+<entry key="path">/etc/packages/com.adobe.training/company-ui.zip</entry>
+</properties>

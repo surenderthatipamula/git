@@ -1,0 +1,1 @@
+<%@taglib prefix="company" uri="http://www.example.com/taglibs/company/1.0" %>
